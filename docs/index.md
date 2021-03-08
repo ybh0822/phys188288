@@ -10,4 +10,4 @@ Instructor: Uro&#353; Seljak, useljak@berkeley.edu <br>
 
 
  - **HW1 (Numerical Integration and ODE/PDEs)**: 
- <br> &nbsp; &nbsp; [Solution](https://nbviewer.jupyter.org/github/ybh0822/phys188288/blob/master/Homework/HW1/HW1_solution.ipynb)
+ <br> &nbsp; &nbsp; [Solution](https://nbviewer.jupyter.org/github/ybh0822/phys188288/blob/master/Homework/HW1_solution.ipynb)
